@@ -1,3 +1,4 @@
 data/rawData/
 data/processedData/
 .env
+query.txt
